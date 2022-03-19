@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Develpoe tool -->
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=FFFFFF"/>
+
+<!-- Design tool -->
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Premiere-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
+
+<!-- 3D tool -->
+<img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat&logo=Cinema 4D&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=FFFFFF"/>
